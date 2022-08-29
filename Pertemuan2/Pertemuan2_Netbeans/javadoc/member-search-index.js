@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"pertemuan2_d32b042","c":"Addnum","l":"Addnum()","u":"%3Cinit%3E()"}];updateSearchResults();
